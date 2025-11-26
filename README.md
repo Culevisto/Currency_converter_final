@@ -121,5 +121,6 @@ HTML — 12%
 
 Culevisto
 GitHub: https://github.com/Culevisto
+
 Макет из Figma :
 https://www.figma.com/design/3Xk6UAd0BTuYBkfsjSn4fI/Currency-Converter--Community-?node-id=0-1&p=f&t=hq6yr9lNRVCYQUzw-0
